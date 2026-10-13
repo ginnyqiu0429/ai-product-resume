@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 产品简历精修"
+  short_description: "按岗位定位、AI 产品动作和真实证据改写简历，让项目清晰且经得住面试追问"
+  default_prompt: "请用 $ai-product-resume，根据我的简历和目标岗位直接改写，补足 AI 产品设计与迭代细节，并标明需要核实的事实。"
